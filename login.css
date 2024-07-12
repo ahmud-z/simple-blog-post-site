@@ -1,0 +1,57 @@
+.box {
+    background-color: white;
+    border-radius: 8px;
+    padding: 40px 50px;
+    width: 260px;
+}
+
+.box h2 {
+    padding-bottom: 30px;
+    font-size: 22px;
+    text-align: center;
+}
+
+.user-input input {
+    border: 1px solid #E0E2E4;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px 8px;
+    border-radius: 4px;
+}
+
+
+
+
+.login-btn {
+    width: 100%;
+    background-color: #1877F2;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+
+    padding: 10px 8px;
+    margin-bottom: 10px;
+
+}
+
+.new-acc-btn {
+    width: 100%;
+}
+
+.new-acc-btn button {
+    background-color: #42B72A;
+    color: white;
+    cursor: pointer;
+    width: 100%;
+    padding: 10px 8px;
+    border-radius: 4px;
+
+}
+
+.new-acc-btn button:hover {
+    background-color: #36A420;
+}
+
+.have-acc {
+    text-align: center;
+}
